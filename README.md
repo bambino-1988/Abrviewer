@@ -190,4 +190,4 @@ This repository serves as the official landing page for ABRViewer. The software 
 **Get the most recent version of ABRViewer today!**
 
 ---
-**Last updated:** 2026-11-13 19:18:37 UTC
+**Last updated:** 2026-11-14 00:43:36 UTC
